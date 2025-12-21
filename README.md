@@ -18,10 +18,7 @@
     <img src="https://img.shields.io/badge/X-%40glvckdev-785E4F?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://discord.com/users/469947188944961539">
-    <img src="https://img.shields.io/badge/Discord-glock-748B6F?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://github.com/glvckoma">
-    <img src="https://img.shields.io/badge/GitHub-glvckoma-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Discord-glvckoma-748B6F?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
@@ -161,7 +158,5 @@ I believe that listening to the user base is the most overlooked skill in develo
     <td><code>Godot 2D/3D</code>, <code>Unity 2D/3D</code>, <code>Architecture Patterns</code></td>
   </tr>
 </table>
-
-<br/>
 <br/>
 <p align="center"><samp>made with 🍵 and 💻 by glock</samp></p>
