@@ -17,7 +17,12 @@
   <a href="https://twitter.com/glvckdev">
     <img src="https://img.shields.io/badge/X-%40glvckdev-785E4F?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-glvckoma-333333?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/469947188944961539">
+    <img src="https://img.shields.io/badge/Discord-glock-748B6F?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://github.com/glvckoma">
+    <img src="https://img.shields.io/badge/GitHub-glvckoma-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 </div>
