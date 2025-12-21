@@ -5,9 +5,19 @@
 </h3>
 
 <p>
-  <strong>&nbsp;&nbsp;> app & web developer</strong><br>
+  <strong>&nbsp;&nbsp;> app & web developer major</strong><br>
   <strong>&nbsp;&nbsp;> game dev minor</strong><br>
   <strong>&nbsp;&nbsp;> ux enthusiast</strong>
+</p>
+
+<p>
+  <a href="mailto:glvckdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-glvckdev%40gmail.com-748B6F?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/glvckdev">
+    <img src="https://img.shields.io/badge/X-%40glvckdev-785E4F?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-glvckoma-333333?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
 </div>
@@ -148,18 +158,5 @@ I believe that listening to the user base is the most overlooked skill in develo
 </table>
 
 <br/>
-
-<div align="center">
-  <a href="mailto:glvckdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-glvckdev%40gmail.com-748B6F?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/glvckdev">
-    <img src="https://img.shields.io/badge/X-%40glvckdev-785E4F?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/glvckoma">
-    <img src="https://img.shields.io/badge/GitHub-glvckoma-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <br />
-  <br />
-  <p><samp>made with 🍵 and 💻 by glock</samp></p>
-</div>
+<br/>
+<p align="center"><samp>made with 🍵 and 💻 by glock</samp></p>
