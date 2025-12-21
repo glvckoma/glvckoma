@@ -1,16 +1,165 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**glvckoma/glvckoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+   <code><span style="color: #748B6F">glock@dev</span>:<span style="color: #785E4F">~</span>$ whoami</code>
+</h3>
 
-Here are some ideas to get you started:
+<p>
+  <strong>&nbsp;&nbsp;> app & web developer</strong><br>
+  <strong>&nbsp;&nbsp;> game dev minor</strong><br>
+  <strong>&nbsp;&nbsp;> ux enthusiast</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br/>
+
+<div align="left">
+
+### my philosophy
+
+I am a CIT student focusing on App and Web Development. I don't just write code to make things work; I write code to make things **maintainable** and **scalable**.
+
+I believe that listening to the user base is the most overlooked skill in development. While many build features in a vacuum, I pride myself on listening to feedback and **improving existing apps** to perfect the user experience. Whether I am reverse-engineering network packets or building a Chrome extension, I focus on the architecture and the human using it first.
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glvckoma&show_icons=true&theme=default&hide_border=true&title_color=748B6F&icon_color=785E4F&text_color=555" alt="glvckoma's stats" />
+</p>
+
+---
+
+### featured projects
+
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3 align="center">Strawberry Jam</h3>
+      <p align="center">
+        <a href="https://github.com/glvckoma/Strawberry-Jam">
+          <img src="https://placehold.co/600x400/748B6F/white?text=Electron+MITM+Interface" alt="Strawberry Jam" width="100%" />
+        </a>
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <br />
+      <p>
+        An advanced MITM (Man-in-the-Middle) proxy tool built with Electron. 
+        It allows for real-time traffic analysis and packet modification for debugging network protocols.
+      </p>
+      <p><strong>Core Concepts:</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Electron-785E4F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-748B6F?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Network_Proxy-785E4F?style=flat-square" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/glvckoma/Strawberry-Jam"><strong>[ 📁 View Source ]</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3 align="center">RuneAgent Revived</h3>
+      <p align="center">
+        <a href="https://github.com/glvckoma/RuneAgent-Revived">
+           <img src="https://placehold.co/600x400/785E4F/white?text=Java+Packet+Editor" alt="RuneAgent" width="100%" />
+        </a>
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <br />
+      <p>
+        A revitalization of a legacy Java packet editor. 
+        I refactored the codebase to work with modern client versions, demonstrating my ability to navigate and modernize complex legacy systems.
+      </p>
+      <p><strong>Core Concepts:</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-748B6F?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Packet_Injection-785E4F?style=flat-square" />
+        <img src="https://img.shields.io/badge/Refactoring-748B6F?style=flat-square" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/glvckoma/RuneAgent-Revived"><strong>[ 📁 View Source ]</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3 align="center">WinkWink (Chrome Extension)</h3>
+      <p align="center">
+        <a href="https://chromewebstore.google.com/detail/winkwink-ace-your-studies/pbafopkihldjbcececbibklapleogfdf?pli=1">
+           <img src="https://placehold.co/600x400/748B6F/white?text=Extension+Popup+UI" alt="WinkWink" width="100%" />
+        </a>
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <br />
+      <p>
+        A productivity tool designed to help students focus. 
+        This project went through the full lifecycle from concept to deployment on the official Chrome Web Store.
+      </p>
+      <p><strong>Core Concepts:</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-785E4F?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chrome_API-748B6F?style=flat-square&logo=googlechrome&logoColor=white" />
+      </p>
+      <div align="center">
+        <a href="https://chromewebstore.google.com/detail/winkwink-ace-your-studies/pbafopkihldjbcececbibklapleogfdf?pli=1"><strong>[ 🟢 Live Store Link ]</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### technical skills
+
+<table align="center">
+  <tr>
+    <td width="120"><strong>Languages</strong></td>
+    <td><code>JavaScript</code>, <code>TypeScript</code>, <code>Python</code>, <code>Java</code>, <code>C#</code>, <code>GDScript</code></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td><code>React</code>, <code>Next.js</code>, <code>Tailwind</code>, <code>jQuery</code></td>
+  </tr>
+  <tr>
+    <td><strong>Backend/Ops</strong></td>
+    <td><code>Node.js</code>, <code>Docker</code>, <code>Electron</code></td>
+  </tr>
+   <tr>
+    <td><strong>Current Focus</strong></td>
+    <td><code>Godot 2D/3D</code>, <code>Unity 2D/3D</code>, <code>Architecture Patterns</code></td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:glvckdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-glvckdev%40gmail.com-748B6F?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/glvckdev">
+    <img src="https://img.shields.io/badge/X-%40glvckdev-785E4F?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/glvckoma">
+    <img src="https://img.shields.io/badge/GitHub-glvckoma-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br />
+  <br />
+  <p><samp>made with 🍵 and 💻 by glock</samp></p>
+</div>
