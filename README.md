@@ -52,7 +52,7 @@ I believe that listening to the user base is the most overlooked skill in develo
       <h3 align="center">Strawberry Jam</h3>
       <p align="center">
         <a href="https://github.com/glvckoma/Strawberry-Jam">
-          <img src="./assets/sJam.png" alt="Strawberry Jam Interface" width="100%" />
+          <img src="./sJam.png" alt="Strawberry Jam Interface" width="100%" />
         </a>
       </p>
     </td>
@@ -83,7 +83,7 @@ I believe that listening to the user base is the most overlooked skill in develo
       <h3 align="center">RuneAgent Revived</h3>
       <p align="center">
         <a href="https://github.com/glvckoma/RuneAgent-Revived">
-           <img src="./assets/rAgent.png" alt="RuneAgent Interface" width="100%" />
+           <img src="./rAgent.png" alt="RuneAgent Interface" width="100%" />
         </a>
       </p>
     </td>
@@ -114,7 +114,7 @@ I believe that listening to the user base is the most overlooked skill in develo
       <h3 align="center">WinkWink (Chrome Extension)</h3>
       <p align="center">
         <a href="https://chromewebstore.google.com/detail/winkwink-ace-your-studies/pbafopkihldjbcececbibklapleogfdf?pli=1">
-           <img src="./assets/wWink.png" alt="WinkWink Interface" width="100%" />
+           <img src="./wWink.png" alt="WinkWink Interface" width="100%" />
         </a>
       </p>
     </td>
