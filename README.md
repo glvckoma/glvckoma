@@ -39,7 +39,7 @@ I believe that listening to the user base is the most overlooked skill in develo
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glvckoma&show_icons=true&theme=default&hide_border=true&title_color=748B6F&icon_color=785E4F&text_color=555" alt="glvckoma's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=glvckoma&show_icons=true&theme=default&hide_border=true&title_color=748B6F&icon_color=785E4F&text_color=555&include_all_time=true&hide_rank=true" alt="glvckoma's stats" />
 </p>
 
 ---
