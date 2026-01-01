@@ -1,8 +1,7 @@
 <div align="left">
 
-<h3>
-   <code><span style="color: #748B6F">glock@dev</span>:<span style="color: #785E4F">~</span>$ whoami</code>
-</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=748B6F&width=435&lines=glock%40dev%3A~%24+whoami)](https://git.io/typing-svg)
 
 <p>
   <strong>&nbsp;&nbsp;> app & web developer major</strong><br>
