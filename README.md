@@ -1,7 +1,7 @@
 <div align="left">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=785E4F&width=435&lines=glock%40dev%3A~%24+whoami)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=785E4F&width=435&lines=glvck%40dev%3A~%24+whoami)](https://git.io/typing-svg)
 
 <p>
   <strong>&nbsp;&nbsp;> app & web developer major</strong><br>
@@ -39,7 +39,11 @@ I believe listening to users is the most overlooked skill in development. While 
 
 ---
 
+<div align="center">
+
 ### technical skills
+
+</div>
 
 <table align="center">
   <tr>
@@ -60,4 +64,4 @@ I believe listening to users is the most overlooked skill in development. While 
   </tr>
 </table>
 <br/>
-<p align="center"><samp>made with 🍵 and 💻 by glock</samp></p>
+<p align="center"><samp>made with 🍵 and 💻 by glvck</samp></p>
