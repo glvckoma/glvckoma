@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=785E4F&width=435&lines=glvck%40dev%3A~%24+whoami)](https://git.io/typing-svg)
 
 <p>
-  <strong>&nbsp;&nbsp;> app & web developer major</strong><br>
+  <strong>&nbsp;&nbsp;> bachelor's degree in app & web development</strong><br>
   <strong>&nbsp;&nbsp;> game dev minor</strong><br>
   <strong>&nbsp;&nbsp;> ux enthusiast</strong>
 </p>
