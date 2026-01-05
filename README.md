@@ -1,7 +1,7 @@
 <div align="left">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=748B6F&width=435&lines=glock%40dev%3A~%24+whoami)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=785E4F&width=435&lines=glock%40dev%3A~%24+whoami)](https://git.io/typing-svg)
 
 <p>
   <strong>&nbsp;&nbsp;> app & web developer major</strong><br>
@@ -29,9 +29,9 @@
 
 ### my philosophy
 
-I am a CIT student focusing on App and Web Development. I don't just write code to make things work; I write code to make things **maintainable** and **scalable**.
+I'm a CIT student specializing in App and Web Development. I write code that's maintainable and scalable.
 
-I believe that listening to the user base is the most overlooked skill in development. While many build features in a vacuum, I pride myself on listening to feedback and **improving existing apps** to perfect the user experience. Whether I am reverse-engineering network packets or building a Chrome extension, I focus on the architecture and the human using it first.
+I believe listening to users is the most overlooked skill in development. While many developers build features no one asked for, I focus on understanding feedback and refining existing applications to perfect the user experience. Whether I'm reverse-engineering, building a Chrome extension, or enhancing existing sites, I prioritize solid architecture and the people who will actually use it.
 
 </div>
 
