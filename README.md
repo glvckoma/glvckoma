@@ -52,15 +52,27 @@ I believe listening to users is the most overlooked skill in development. While 
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td><code>React</code>, <code>Next.js</code>, <code>Tailwind</code>, <code>jQuery</code></td>
+    <td><code>React</code>, <code>Next.js</code>, <code>Tailwind</code>, <code>jQuery</code>, <code>Mantine UI</code>, <code>Webpack</code>, <code>Babel</code></td>
   </tr>
   <tr>
     <td><strong>Backend/Ops</strong></td>
-    <td><code>Node.js</code>, <code>Docker</code>, <code>Electron</code></td>
+    <td><code>Node.js</code>, <code>Express</code>, <code>Docker</code>, <code>Electron</code>, <code>Prisma</code>, <code>PostgreSQL</code></td>
   </tr>
-   <tr>
+  <tr>
+    <td><strong>Automation/Scraping</strong></td>
+    <td><code>Puppeteer</code>, <code>Playwright</code>, <code>Cheerio</code>, <code>Axios</code></td>
+  </tr>
+  <tr>
+    <td><strong>Game Dev</strong></td>
+    <td><code>Unity 2D/3D</code>, <code>Godot 2D/3D</code>, <code>MelonLoader</code>, <code>Harmony</code></td>
+  </tr>
+  <tr>
+    <td><strong>Build Tools</strong></td>
+    <td><code>Electron Builder</code>, <code>Gradle</code>, <code>MSBuild</code>, <code>TypeScript</code></td>
+  </tr>
+  <tr>
     <td><strong>Current Focus</strong></td>
-    <td><code>Godot 2D/3D</code>, <code>Unity 2D/3D</code>, <code>Architecture Patterns</code></td>
+    <td><code>Unity 2D/3D</code>, <code>Unreal Engine</code></td>
   </tr>
 </table>
 <br/>
