@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://raw.githubusercontent.com/glvckoma/glvckoma/main/glvck-boot-logo.svg)
+![Header](https://raw.githubusercontent.com/glvckoma/glvckoma/main/glvck-boot-logo.svg?v=2)
 
 </div>
 
