@@ -17,7 +17,6 @@
       .line2 { animation: boot-text 0.5s forwards 0.3s; }
       .line3 { animation: boot-text 0.5s forwards 0.6s; }
       .line4 { animation: boot-text 0.5s forwards 0.9s; }
-      .line5 { animation: boot-text 0.5s forwards 1.2s; }
       
       @keyframes boot-text {
         0% { opacity: 0; }
@@ -55,39 +54,23 @@
         0%, 50% { opacity: 1; }
         51%, 100% { opacity: 0; }
       }
-      
-      .scan-line {
-        animation: scan 2s linear infinite;
-        opacity: 0.1;
-      }
-      
-      @keyframes scan {
-        0% { transform: translateY(0); }
-        100% { transform: translateY(150px); }
-      }
     </style>
   </defs>
   
-  <rect width="700" height="150" fill="#0D1117"/>
-  
-  <rect x="0" y="0" width="700" height="3" class="scan-line" fill="#FA8128"/>
-  
   <text x="20" y="25" class="mono boot-line line1">
-    <tspan class="brackets">[</tspan><tspan class="status-ok"> OK </tspan><tspan class="brackets">]</tspan> Starting Git environment...
+    <tspan class="brackets">[</tspan><tspan class="status-ok"> OK </tspan><tspan class="brackets">]</tspan> Booting developer brain cells...
   </text>
   <text x="20" y="45" class="mono boot-line line2">
-    <tspan class="brackets">[</tspan><tspan class="status-ok"> OK </tspan><tspan class="brackets">]</tspan> Loading Brain...
+    <tspan class="brackets">[</tspan><tspan class="status-ok"> OK </tspan><tspan class="brackets">]</tspan> Chugging energy drinks...
   </text>
   <text x="20" y="65" class="mono boot-line line3">
-    <tspan class="brackets">[</tspan><tspan class="status-ok"> OK </tspan><tspan class="brackets">]</tspan> Initializing Energy Drinks...
+    <tspan class="brackets">[</tspan><tspan class="status-ok"> OK </tspan><tspan class="brackets">]</tspan> Pretending to understand C++...
   </text>
   <text x="20" y="85" class="mono boot-line line4">
-    <tspan class="brackets">[</tspan><tspan class="status-ok"> OK </tspan><tspan class="brackets">]</tspan> System ready!
+    <tspan class="brackets">[</tspan><tspan class="status-ok"> OK </tspan><tspan class="brackets">]</tspan> Ready to write code!
   </text>
   
   <text x="20" y="125" class="mono main-text">glvck@dev</text>
   <text x="260" y="125" class="mono main-text" style="fill: #FFFFFF;">:~$</text>
   <rect x="340" y="95" width="15" height="35" class="cursor-main" fill="#FA8128"/>
-  
-  <line x1="0" y1="148" x2="700" y2="148" stroke="#FA8128" stroke-width="2" opacity="0.5"/>
 </svg>
