@@ -1,6 +1,32 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/glvckoma/glvckoma/main/profile.png" alt="Profile" />
+  
+  <img src="https://raw.githubusercontent.com/glvckoma/glvckoma/main/profile.png" width="200" height="200" />
+  
 </div>
+
+<div align="center">
+
+<p>
+  <a href="mailto:glvckdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-glvckdev%40gmail.com-4A5568?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+    <a href="https://discord.com/users/469947188944961539">
+    <img src="https://img.shields.io/badge/Discord-glvckoma-4A5568?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://twitter.com/glvckdev">
+    <img src="https://img.shields.io/badge/-%40glvckdev-4A5568?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+</div>
+
+<br/>
+
+## About Me
+I'm currently studying for my bachelor's in App & Web Development with a minor in Game Dev. I'm big on UX and believe in writing code that's clean, maintainable, and actually makes sense to work with.
+
+Here's what I've learned: listening to users is easily the most underrated skill in development. Too many devs build features nobody asked for. I'd rather spend time understanding what people actually need and refining what already exists to make it better. Whether I'm reverse-engineering something, building, or improving an existing app, I care about solid architecture and the people who'll end up using it.
+
+<br/>
 
 ## Skills
 
@@ -47,25 +73,3 @@
 </table>
 
 <br/>
-
-## About Me
-I'm currently studying for my bachelor's in App & Web Development with a minor in Game Dev. I'm big on UX and believe in writing code that's clean, maintainable, and actually makes sense to work with.
-Here's what I've learned: listening to users is easily the most underrated skill in development. Too many devs build features nobody asked for. I'd rather spend time understanding what people actually need and refining what already exists to make it better. Whether I'm reverse-engineering something, building, or improving an existing app/site, I care about solid architecture and the people who'll end up using it.
-
-<br/>
-
-<div align="left">
-
-**Contacts**
-<p>
-  <a href="mailto:glvckdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-glvckdev%40gmail.com-4A5568?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/glvckdev">
-    <img src="https://img.shields.io/badge/X-%40glvckdev-4A5568?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.com/users/469947188944961539">
-    <img src="https://img.shields.io/badge/Discord-glvckoma-4A5568?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-</div>
