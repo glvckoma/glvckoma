@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/glvckoma/glvckoma/main/profile.png" alt="Profile" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/glvckoma/glvckoma/main/profile.png" alt="Profile" />
 </div>
 
 ## Skills
