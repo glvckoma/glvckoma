@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/glvckoma/glvckoma/main/him.png" width="200" height="200" />
+  <img src="https://raw.githubusercontent.com/glvckoma/glvckoma/main/him.png" width="500" height="500" />
   
 </div>
 
