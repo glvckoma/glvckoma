@@ -19,17 +19,7 @@
 </p>
 </div>
 
-<br/>
-
-## About Me
-I'm currently studying for my bachelor's in App & Web Development with a minor in Game Dev. I'm big on UX and believe in writing code that's clean, maintainable, and actually makes sense to work with.
-
-Here's what I've learned: listening to users is easily the most underrated skill in development. Too many devs build features nobody asked for. I'd rather spend time understanding what people actually need and refining what already exists to make it better. Whether I'm reverse-engineering something, building, or improving an existing app, I care about solid architecture and the people who'll end up using it.
-
-<br/>
-
-## Skills
-
+<div align="center">
 <table>
   <tr>
     <td width="140"><strong>Languages</strong></td>
@@ -71,5 +61,16 @@ Here's what I've learned: listening to users is easily the most underrated skill
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
+
+<div align="center">
+  
+## About Me
+
+</div>
+
+I'm currently studying for my bachelor's in App & Web Development with a minor in Game Dev. I'm big on UX and believe in writing code that's clean, maintainable, and actually makes sense to work with.
+
+Here's what I've learned: listening to users is easily the most underrated skill in development. Too many devs build features nobody asked for. I'd rather spend time understanding what people actually need and refining what already exists to make it better. Whether I'm reverse-engineering something, building, or improving an existing app, I care about solid architecture and the people who'll end up using it.
