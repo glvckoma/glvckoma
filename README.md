@@ -51,12 +51,15 @@
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
     </td>
   </tr>
-  <tr>
+<tr>
     <td><strong>Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Cursor-5E5E5E?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
     </td>
+  </tr>
   </tr>
   <tr>
     <td><strong>Game Dev</strong></td>
