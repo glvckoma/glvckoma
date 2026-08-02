@@ -1,16 +1,14 @@
 <div align="center">
-  
+
 ## About Me
 
 </div>
 
-Bachelor's in Computer and Information Technology (concentration in Computer/Web Application Development) with a minor in Game Dev. I'm big on UX and believe in writing code that's clean, maintainable, and actually makes sense to work with. Listening to users is easily the most underrated skill in development. Too many devs build features nobody asked for. I'd rather spend time understanding what people actually need and refining what already exists to make it better. Whether I'm reverse-engineering something, building, or improving an existing app, I care about solid architecture and the people who'll end up using it. 
+Bachelor's in Computer and Information Technology from Marshall University, with a concentration in web application development and a minor in game dev.
 
-<br/>
+I care a lot about UX and about writing code that someone else can pick up later without hating me. Listening to users is the most underrated skill in this job. Too many devs ship features nobody asked for. I'd rather figure out what people actually need and sharpen what already exists. Whether I'm reverse engineering something, building from scratch, or fixing an app that already has users, the architecture and the people using it are what I'm thinking about.
 
-<div align="center">
-  
-</div>
+Most of my work ends up serving small online communities that big companies never bothers with.
 
 <div align="center">
 
@@ -18,13 +16,21 @@ Bachelor's in Computer and Information Technology (concentration in Computer/Web
   <a href="mailto:glvckdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-glvckdev%40gmail.com-4A5568?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-    <a href="https://discord.com/users/469947188944961539">
+  <a href="https://glvckoma.dev">
+    <img src="https://img.shields.io/badge/Portfolio-glvckoma.dev-4A5568?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://discord.com/users/469947188944961539">
     <img src="https://img.shields.io/badge/Discord-glvckoma-4A5568?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://twitter.com/glvckdev">
     <img src="https://img.shields.io/badge/-%40glvckdev-4A5568?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 </p>
+
+</div>
+
+## Stack
+
 </div>
 
 <div align="center">
@@ -59,15 +65,15 @@ Bachelor's in Computer and Information Technology (concentration in Computer/Web
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
     </td>
   </tr>
-<tr>
+  <tr>
     <td><strong>Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
       <img src="https://img.shields.io/badge/Cursor-5E5E5E?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" />
     </td>
-  </tr>
   </tr>
   <tr>
     <td><strong>Game Dev</strong></td>
