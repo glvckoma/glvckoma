@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" width="100%" alt="67">
+<img src="him.png" width="50%" alt="67">
 
 # Nathan W. (glvckoma)
 
